@@ -347,7 +347,6 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 81. [OSU/SAMPL Database: Range Images, 3D Models, Stills, Motion Sequences](http://sampl.eng.ohio-state.edu/~sampl/database.htm) - Over 1000 range images, 3D object models, still images and motion sequences (Formats: gif, ppm, vrml, homebrew) 
 82. [Signal Analysis and Machine Perception Laboratory](http://sampl.eng.ohio-state.edu)
 84. [Otago Optical Flow Evaluation Sequences](http://www.cs.otago.ac.nz/research/vision/Research/OpticalFlow/opticalflow.html) - Synthetic and real sequences with machine-readable ground truth optical flow fields, plus tools to generate ground truth for new sequences. (Formats: ppm,tif,homebrew)
-85. [Vision Research Group](http://www.cs.otago.ac.nz/research/vision/index.html) 
 87. [ftp://ftp.limsi.fr/pub/quenot/opflow/testdata/piv/](ftp://ftp.limsi.fr/pub/quenot/opflow/testdata/piv/) - Real and synthetic image sequences used for testing a Particle Image Velocimetry application. These images may be used for the test of optical flow and image matching algorithms. (Formats: pgm (raw)) 
 88. [LIMSI-CNRS/CHM/IMM/vision](http://www.limsi.fr/Recherche/IMM/PageIMM.html) 
 89. [LIMSI-CNRS](http://www.limsi.fr/)
